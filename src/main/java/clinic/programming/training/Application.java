@@ -1,4 +1,5 @@
- import java.util.ArrayList;
+package clinic.programming.training;
+import java.util.ArrayList;
  import java.util.List;
  import org.apache.commons.lang3.StringUtils;
  public class Application {
