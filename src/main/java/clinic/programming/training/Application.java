@@ -22,7 +22,7 @@ import java.util.ArrayList;
     
 	 public Application()
 	 {
-         System.out.println ("Inside Application");
+         System.out.println ("Inside Application for testing master");
      }
       
    public static void main (String[] args) 
